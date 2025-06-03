@@ -1,4 +1,4 @@
-Simulador de CPU em Pytho
+Simulador de CPU em Python
 
 Arquitetura e Organização de Computadores
 Aluno: Ítalo Samuel Oliveira Silveira
